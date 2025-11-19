@@ -17,9 +17,13 @@
 ## 🛠️ Technologies & Tools
 
 **Languages:** JavaScript, Python, Java
+
 **Frontend:** HTML, CSS, C
+
 **Backend:** Node.js, Express
+
 **Databases:** MySQL, PostgreSQL
+
 **Tools:** GitHub, VS Code
 
 ---
@@ -39,5 +43,5 @@
 
 ---
 
-✨ *Thanks for visiting! Feel free to explore my repositories and connect!*
+✨ *Thanks for visiting!*
 
