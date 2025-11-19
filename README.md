@@ -32,16 +32,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-* 🔧 **Your Best Project Here** – Short description of what it does
-* 🌐 **Another Project** – Brief explanation
-* 📱 **Mobile/Full-stack App** – What you built and why
-
-> *(Replace with your pinned projects once ready!)*
-
----
-
 ## 📬 Contact
 
 📧 Email: *brunocteixeira014@gmail.com*
