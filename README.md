@@ -7,6 +7,7 @@
 
 ## 🚀 About Me
 
+*  Tenho 22 anos
 *  Currently studying **Systems Analysis and Development**
 *  Always learning and improving my development skills
 *  Interested in **Web Development**, **APIs**, and **Software Engineering**
