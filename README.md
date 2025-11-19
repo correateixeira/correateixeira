@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️Technologies & Tools I'm interested in
 
 **Languages:** JavaScript, Python, Java
 
