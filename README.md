@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Bruno Corrêa Teixeira**
+# 👋 Hi, I'm **Bruno Teixeira**
 
 🎓 **Systems Analysis and Development Student**
 💡 Improving my skills in software development, focusing on building clean, efficient, and scalable solutions.
