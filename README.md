@@ -16,15 +16,15 @@
 
 ## 🛠️Technologies & Tools I'm interested in
 
-**Languages:** JavaScript, Python, Java
+* **Languages:** JavaScript, Python, Java
 
-**Frontend:** HTML, CSS, C
+* **Frontend:** HTML, CSS, C
 
-**Backend:** Node.js, Express
+* **Backend:** Node.js, Express
 
-**Databases:** MySQL, PostgreSQL
+* **Databases:** MySQL, PostgreSQL
 
-**Tools:** GitHub, VS Code
+* **Tools:** GitHub, VS Code
 
 ---
 
