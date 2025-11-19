@@ -17,10 +17,10 @@
 ## 🛠️ Technologies & Tools
 
 **Languages:** JavaScript, Python, Java
-**Frontend:** HTML, CSS, React
+**Frontend:** HTML, CSS, C
 **Backend:** Node.js, Express
 **Databases:** MySQL, PostgreSQL
-**Tools:** Git, GitHub, VS Code
+**Tools:** GitHub, VS Code
 
 ---
 
