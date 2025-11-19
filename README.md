@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm **Bruno Corrêa Teixeira**
 
-<!--
-**correateixeira/correateixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Systems Analysis and Development Student**
+💡 Improving my skills in software development, focusing on building clean, efficient, and scalable solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 📚 Currently studying **Systems Analysis and Development**
+* 🧠 Always learning and improving my development skills
+* 🔍 Interested in **Web Development**, **APIs**, and **Software Engineering**
+* 🤝 Open to collaborating on interesting projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:** JavaScript, Python, Java
+**Frontend:** HTML, CSS, React
+**Backend:** Node.js, Express
+**Databases:** MySQL, PostgreSQL
+**Tools:** Git, GitHub, VS Code
+
+---
+
+## 📈 What I'm Learning
+
+* Deeper backend concepts (APIs, authentication, clean architecture)
+* Frontend frameworks
+* Best practices in Git/GitHub
+
+---
+
+## 📂 Featured Projects
+
+* 🔧 **Your Best Project Here** – Short description of what it does
+* 🌐 **Another Project** – Brief explanation
+* 📱 **Mobile/Full-stack App** – What you built and why
+
+> *(Replace with your pinned projects once ready!)*
+
+---
+
+## 📬 Contact
+
+📧 Email: *brunocteixeira014@gmail.com*
+🔗 LinkedIn: *https://www.linkedin.com/in/brunocorreateixeira/*
+
+---
+
+✨ *Thanks for visiting! Feel free to explore my repositories and connect!*
+
