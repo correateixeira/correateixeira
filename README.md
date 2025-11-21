@@ -31,10 +31,8 @@
 
 ## 📈 What I'm Learning
 
-* Deeper backend concepts (APIs, authentication, clean architecture)
-* Frontend frameworks
-* Best practices in Git/GitHub
-
+* Front-End & Back-End
+* HTML, CSS & JavaScript
 ---
 
 ## 📬 Contact
