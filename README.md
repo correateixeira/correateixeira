@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-*  I'm 22 years old
+*  I'm 23 years old
 *  Currently studying **Systems Analysis and Development**
 *  Always learning and improving my development skills
 *  Interested in **Web Development**, **APIs**, and **Software Engineering**
